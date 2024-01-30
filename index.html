@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carte Interactive</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+
+<body>
+    
+    <div id="title"> <h1> Les cailloux que nous avons semés !</h1> </div>
+    <div id="description">Cette carte a pour but de représenter toutes les actions de l'association Avenir en Héritage.<br> Cliquez sur les marqueurs pour plus d'informations. </div>
+    <div id="map"></div>
+
+        <!-- Chargement de la bibliothèque Leaflet -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- Inclusion des données de la carte depuis un fichier JSON -->
+<script src="data.json"></script>
+
+    <!-- Inclusion du script JavaScript -->
+<script src="app.js"></script>
+
+</body>
+</html>

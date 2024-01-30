@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Togo",
+        "latitude": 8.6195,
+        "longitude": 0.8248,
+        "type": "type1"
+    },
+    {
+        "name": "Tchekpo",
+        "latitude": 6.9333,
+        "longitude": 1.1667,
+        "type": "type2"
+    },
+    {
+        "name": "Lomé",
+        "latitude": 6.1375,
+        "longitude": 1.2123,
+        "type": "type3"
+    },
+    {
+        "name": "France",
+        "latitude": 46.6031,
+        "longitude": 1.8883,
+        "type": "type1"
+    },
+    {
+        "name": "Lycée Saint André à Niort",
+        "latitude": 46.3237,
+        "longitude": -0.4646,
+        "type": "type2"
+    },
+    {
+        "name": "Collège de Missy à La Rochelle",
+        "latitude": 46.1667,
+        "longitude": -1.15,
+        "type": "type3"
+    },
+    {
+        "name": "Lycée Valin à La Rochelle",
+        "latitude": 46.1591,
+        "longitude": -1.1529,
+        "type": "type1"
+    },
+    {
+        "name": "Lycée Louis Delage à Rochefort",
+        "latitude": 45.9333,
+        "longitude": -0.9667,
+        "type": "type2"
+    },
+    {
+        "name": "Lycée Fénelon Notre Dame",
+        "latitude": 45.892,
+        "longitude": -0.9354,
+        "type": "type3"
+    },
+    {
+        "name": "Participation aux quarts de finale à Cognac",
+        "latitude": 45.6925,
+        "longitude": -0.3307,
+        "type": "type1"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "latitude": 7.5400,
+        "longitude": -5.5471,
+        "type": "type2"
+    },
+    {
+        "name": "Afrique du Sud",
+        "latitude": -30.5595,
+        "longitude": 22.9375,
+        "type": "type3"
+    },
+    {
+        "name": "Madagascar",
+        "latitude": -18.8792,
+        "longitude": 47.5079,
+        "type": "type1"
+    },
+    {
+        "name": "Suède",
+        "latitude": 60.1282,
+        "longitude": 18.6435,
+        "type": "type2"
+    },
+    {
+        "name": "Costa Rica",
+        "latitude": 9.7489,
+        "longitude": -83.7534,
+        "type": "type3"
+    },
+    {
+        "name": "Espagne",
+        "latitude": 40.4637,
+        "longitude": -3.7492,
+        "type": "type1"
+    },
+    {
+        "name": "Portugal",
+        "latitude": 39.3999,
+        "longitude": -8.2245,
+        "type": "type2"
+    },
+    {
+        "name": "Cambodge",
+        "latitude": 12.5657,
+        "longitude": 104.9910,
+        "type": "type3"
+    },
+    {
+        "name": "Croatie",
+        "latitude": 45.1000,
+        "longitude": 15.2000,
+        "type": "type1"
+    }
+]
